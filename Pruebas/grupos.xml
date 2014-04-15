@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grupos>
+<grupo id="1">
+	<nombre alias="ja" vota=""/>
+	<nombre alias="ba"  vota="" />
+	<nombre alias="cd"  vota=""/>
+	<nombre alias="sa"  vota=""/>
+	<nombre alias="pa"  vota=""/>
+	<nombre alias="oa"  vota=""/>
+	<nombre alias="ra"  vota=""/>
+</grupo>
+<grupo id="2">
+	<nombre alias="2ja"  vota=""/>
+	<nombre alias="2ba"  vota=""/>
+	<nombre alias="2cd"  vota=""/>
+	<nombre alias="2sa"  vota=""/>
+	<nombre alias="2pa"  vota=""/>
+	<nombre alias="2oa"  vota=""/>
+	<nombre alias="2ra"  vota=""/>
+</grupo>
+<grupo id="3">
+	<nombre alias="3ja"  vota=""/>
+	<nombre alias="3ba"  vota=""/>
+	<nombre alias="3cd"  vota=""/>
+	<nombre alias="3sa"  vota=""/>
+	<nombre alias="3pa"  vota=""/>
+	<nombre alias="3oa"  vota=""/>
+	<nombre alias="3ra"  vota=""/>
+</grupo>
+</grupos>
