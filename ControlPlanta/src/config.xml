@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuracion>
+<consultaSql>select * from alpr where (direction=2 or direction=0)</consultaSql>  
+
+<!--
+* para una consulta según el orden de creacion/actualización de registros sería 
+where direction = 1 order by ctid asc -->
+
+<classDriver>org.postgresql.Driver</classDriver>
+<!-- <jdbc>jdbc:postgresql://192.168.48.230:5433/basculas</jdbc>
+ -->
+ <jdbc>jdbc:postgresql://192.168.0.55:5432/basculas</jdbc>
+<user>postgres</user>
+<password>postgres</password>
+<tablaMatriculas>alpr</tablaMatriculas>
+<tablaImagenes>alpr_image</tablaImagenes>
+<columnaIdTabla>1</columnaIdTabla>
+<columnaCodeCamara>3</columnaCodeCamara> <!-- número de campo en la tabla donde está la columna del código de cámara -->
+<columnaMatricula>2</columnaMatricula> <!-- número de campo en la tabla donde está la matricula -->
+<columnaFecha>5</columnaFecha>
+<pesoMinimoHayAlgo>100</pesoMinimoHayAlgo>  <!-- Por el margen de error, peso en Kg como mínimo para entender que está sin peso la báscula -->
+<cod_planta>1</cod_planta>
+</configuracion>
+
+<!-- 
+* se ha necesitado crear varias secuencias en los campos de BBDD siguientes:
+- id tabla entradas
+- id tabla incidencias
+- albaran tabla ticket
+- id tabla vehiculo
+ -->

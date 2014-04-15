@@ -1,0 +1,320 @@
+abr 14, 2014 10:16:58 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 10:19:17 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ----------------------------------------------------------  del id cámara: 1. En matricula: 0311SCF
+abr 14, 2014 10:19:17 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 0311SCF  del id cámara: 1. En matricula: 0311SCF
+abr 14, 2014 10:19:17 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 1. En matricula: 0311SCF
+abr 14, 2014 10:19:17 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ---Esperando pesada del camión  del id cámara: 1. En matricula: 0311SCF
+abr 14, 2014 10:19:23 AM com.tragsa.basculas.ArchivoLog crearLog
+Información:     ****** Peso detectado para almacenar: 1700.0  del id cámara: 1. En matricula: 0311SCF
+abr 14, 2014 10:19:23 AM com.tragsa.basculas.ArchivoLog crearLog
+Información:  Crea ticket ejecutando: insert into ticket (id_entrada,peso_entrada) values (7519,1700.0)
+abr 14, 2014 10:19:23 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ->crea ticket  del id cámara: 1. En matricula: 0311SCF
+abr 14, 2014 10:19:23 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ->Ha terminado de procesar la Matricula: 0311SCF  del id cámara: 1. En matricula: 0311SCF
+abr 14, 2014 10:20:51 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 10:22:21 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 10:24:52 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ----------------------------------------------------------  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 10:24:52 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 9000LDB  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 10:24:52 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 10:24:52 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ---Esperando pesada del camión  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 10:24:59 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: *******************************Error al llamar op.generarMedidaEstableKgMax(). Mensaje: java.net.SocketTimeoutException: connect timed out  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 10:24:59 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: Error con la báscula. Mensaje: java.net.SocketTimeoutException: connect timed out  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 10:26:12 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 10:26:12 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ----------------------------------------------------------  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 10:26:12 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 9000LDB  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 10:26:12 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 10:27:40 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ********************************************************  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 10:28:56 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: *******Error al registrar movimiento porque la matricula no ha entradao en plantaERROR: llave duplicada viola restricción de unicidad «movimientos_pkey»
+  Detail: Ya existe la llave (camara, fecha)=(1, 2014-04-14 10:25:31+02).  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 10:32:18 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ---Esperando pesada del camión  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 10:33:30 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: *******************************Error al llamar op.generarMedidaEstableKgMax(). Mensaje: java.net.SocketTimeoutException: connect timed out  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 10:33:36 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: Error con la báscula. Mensaje: java.net.SocketTimeoutException: connect timed out  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 10:55:01 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 10:55:01 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 10:55:01 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 9000LDB  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 10:55:01 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 11:55:46 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 11:55:47 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 11:55:47 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 9000LDB  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 11:55:47 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 11:56:48 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 11:56:48 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 11:56:48 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 9000LDB  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 11:56:48 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 11:58:43 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 11:58:43 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 11:58:43 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 9000LDB  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 11:58:43 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 11:59:48 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ---Esperando pesada del camión  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 11:59:55 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: *******************************Error al llamar op.generarMedidaEstableKgMax(). Mensaje: java.net.SocketTimeoutException: connect timed out  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 11:59:55 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: Error con la báscula. Mensaje: java.net.SocketTimeoutException: connect timed out  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:04:59 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 12:04:59 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:04:59 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 9000LDB  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:04:59 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:05:42 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ---Esperando pesada del camión  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:05:48 PM com.tragsa.basculas.ArchivoLog crearLog
+Información:     ****** Peso detectado para almacenar: 1700.0  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:05:48 PM com.tragsa.basculas.ArchivoLog crearLog
+Información:  Crea ticket ejecutando: insert into ticket (id_entrada,peso_entrada) values (7526,1700.0)
+abr 14, 2014 12:05:48 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ->crea ticket  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:05:48 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ->Ha terminado de procesar la Matricula: 9000LDB  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:09:27 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 12:09:27 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:09:27 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 9000LDB  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:09:27 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:11:17 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ////Carril 1 ha sido liberado tras borrar registros pendientes
+abr 14, 2014 12:12:41 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 12:13:00 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 12:14:14 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 12:14:14 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:14:14 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 9000LDB  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:14:14 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:16:27 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 12:16:27 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:16:27 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 9000LDB  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:16:27 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:16:48 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ---Esperando pesada del camión  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:16:55 PM com.tragsa.basculas.ArchivoLog crearLog
+Información:     ****** Peso detectado para almacenar: 1700.0  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:17:08 PM com.tragsa.basculas.ArchivoLog crearLog
+Información:             Ejecutado: update ticket set peso_salida = 1700.0 where id_entrada= 7526
+abr 14, 2014 12:17:08 PM com.tragsa.basculas.ArchivoLog crearLog
+Información:             ->crea ticket  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:17:08 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ->Ha terminado de procesar la Matricula: 9000LDB  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:22:51 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 12:22:51 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:22:51 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 9000LDB  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:22:51 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:25:48 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ---Esperando pesada del camión  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:25:54 PM com.tragsa.basculas.ArchivoLog crearLog
+Información:     ****** Peso detectado para almacenar: 1700.0  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:25:54 PM com.tragsa.basculas.ArchivoLog crearLog
+Información:             Ejecutado: insert into ticket (id_entrada,peso_entrada) values (7527,1700.0)
+abr 14, 2014 12:25:54 PM com.tragsa.basculas.ArchivoLog crearLog
+Información:             ->crea ticket  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:25:54 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ->Ha terminado de procesar la Matricula: 9000LDB  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:38:27 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 12:38:27 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:38:27 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 9000LDB  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:38:27 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:38:46 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ---Esperando pesada del camión  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:38:52 PM com.tragsa.basculas.ArchivoLog crearLog
+Información:     ****** Peso detectado para almacenar: 1700.0  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:38:52 PM com.tragsa.basculas.ArchivoLog crearLog
+Información:             Ejecutado: insert into ticket (id_entrada,peso_entrada) values (7528,1700.0)
+abr 14, 2014 12:38:52 PM com.tragsa.basculas.ArchivoLog crearLog
+Información:             ->crea ticket  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:38:52 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ->Ha terminado de procesar la Matricula: 9000LDB  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:39:16 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 12:39:16 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 4. En matricula: 9000LDB
+abr 14, 2014 12:39:16 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 9000LDB  del id cámara: 4. En matricula: 9000LDB
+abr 14, 2014 12:39:16 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 4. En matricula: 9000LDB
+abr 14, 2014 12:41:36 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 12:41:36 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 3. En matricula: 9000LDB
+abr 14, 2014 12:41:36 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 9000LDB  del id cámara: 3. En matricula: 9000LDB
+abr 14, 2014 12:41:36 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 3. En matricula: 9000LDB
+abr 14, 2014 12:44:44 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ->Ha terminado de procesar la Matricula: 9000LDB  del id cámara: 3. En matricula: 9000LDB
+abr 14, 2014 12:45:06 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 12:45:06 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 4. En matricula: 9000LDB
+abr 14, 2014 12:45:06 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 9000LDB  del id cámara: 4. En matricula: 9000LDB
+abr 14, 2014 12:45:06 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 4. En matricula: 9000LDB
+abr 14, 2014 12:45:26 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ---Abriendo barrera camara sin báscula  del id cámara: 4. En matricula: 9000LDB
+abr 14, 2014 12:45:51 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ---Abierta barrera camara sin báscula  del id cámara: 4. En matricula: 9000LDB
+abr 14, 2014 12:45:53 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ->Ha terminado de procesar la Matricula: 9000LDB  del id cámara: 4. En matricula: 9000LDB
+abr 14, 2014 12:46:09 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:46:09 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 9000LDB  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:46:09 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:46:31 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 12:46:31 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:46:31 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 9000LDB  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:46:31 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:47:56 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ********************************************************  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:47:56 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: *******Error al registrar movimiento: ERROR: inserción o actualización en la tabla «movimientos» viola la llave foránea «ref_movimientos_to_entradas»
+  Detail: La llave (id_entrada)=(0) no está presente en la tabla «entradas».  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:50:14 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 12:50:14 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:50:14 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 9000LDB  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:50:14 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:51:41 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ---Esperando pesada del camión  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:51:47 PM com.tragsa.basculas.ArchivoLog crearLog
+Información:     ****** Peso detectado para almacenar: 1700.0  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:51:47 PM com.tragsa.basculas.ArchivoLog crearLog
+Información:             Ejecutado: insert into ticket (id_entrada,peso_entrada) values (7530,1700.0)
+abr 14, 2014 12:51:47 PM com.tragsa.basculas.ArchivoLog crearLog
+Información:             ->crea ticket  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:51:47 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ->Ha terminado de procesar la Matricula: 9000LDB  del id cámara: 1. En matricula: 9000LDB
+abr 14, 2014 12:52:15 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 12:52:15 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 2. En matricula: 1111BBB
+abr 14, 2014 12:52:15 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 1111BBB  del id cámara: 2. En matricula: 1111BBB
+abr 14, 2014 12:52:15 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 2. En matricula: 1111BBB
+abr 14, 2014 12:54:37 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 12:54:37 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 4. En matricula: 1111BBB
+abr 14, 2014 12:54:37 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 1111BBB  del id cámara: 4. En matricula: 1111BBB
+abr 14, 2014 12:54:37 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 4. En matricula: 1111BBB
+abr 14, 2014 12:54:46 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ////Carril 2 ha sido liberado tras borrar registros pendientes
+abr 14, 2014 12:56:07 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 12:56:07 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 2. En matricula: 1111BBB
+abr 14, 2014 12:56:07 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 1111BBB  del id cámara: 2. En matricula: 1111BBB
+abr 14, 2014 12:56:07 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 2. En matricula: 1111BBB
+abr 14, 2014 12:56:12 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: La matricula sale sin existir registro de entrada  del id cámara: 2. En matricula: 1111BBB
+abr 14, 2014 12:57:58 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 14, 2014 12:57:58 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:57:58 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 9000LDB  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:57:58 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:58:19 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ---Esperando pesada del camión  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:58:25 PM com.tragsa.basculas.ArchivoLog crearLog
+Información:     ****** Peso detectado para almacenar: 1700.0  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:58:25 PM com.tragsa.basculas.ArchivoLog crearLog
+Información:             Ejecutado: update ticket set peso_salida = 1700.0 where id_entrada= 7530
+abr 14, 2014 12:58:25 PM com.tragsa.basculas.ArchivoLog crearLog
+Información:             ->crea ticket  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 12:58:25 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: ->Ha terminado de procesar la Matricula: 9000LDB  del id cámara: 2. En matricula: 9000LDB
+abr 14, 2014 2:10:31 PM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 15, 2014 10:02:51 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: Conexión bbdd realizada...
+abr 15, 2014 10:04:20 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ------------------------------EMPIEZA TRATAR MATRICULA ----------------------------  del id cámara: 1. En matricula: 9000LDB
+abr 15, 2014 10:04:20 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: Funcion trata(). Tratando matricula: 9000LDB  del id cámara: 1. En matricula: 9000LDB
+abr 15, 2014 10:04:21 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ***Hilo lanzado  del id cámara: 1. En matricula: 9000LDB
+abr 15, 2014 10:05:10 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ---Esperando pesada del camión  del id cámara: 1. En matricula: 9000LDB
+abr 15, 2014 10:05:16 AM com.tragsa.basculas.ArchivoLog crearLog
+Información:     ****** Peso detectado para almacenar: 1700.0  del id cámara: 1. En matricula: 9000LDB
+abr 15, 2014 10:05:16 AM com.tragsa.basculas.ArchivoLog crearLog
+Información:             Ejecutado: insert into ticket (id_entrada,peso_entrada) values (7536,1700.0)
+abr 15, 2014 10:05:16 AM com.tragsa.basculas.ArchivoLog crearLog
+Información:             ->crea ticket  del id cámara: 1. En matricula: 9000LDB
+abr 15, 2014 10:05:16 AM com.tragsa.basculas.ArchivoLog crearLog
+Información: ->Ha terminado de procesar la Matricula: 9000LDB  del id cámara: 1. En matricula: 9000LDB
